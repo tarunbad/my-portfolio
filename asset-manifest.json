@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.91da33ba.css",
+    "main.css": "/my-portfolio/static/css/main.09e70791.css",
     "main.js": "/my-portfolio/static/js/main.e82c1e09.js",
     "static/media/Coursera(UX-Main).jpg": "/my-portfolio/static/media/Coursera(UX-Main).1d5280c2b67bb8848543.jpg",
     "static/media/Coursera(full stack).jpg": "/my-portfolio/static/media/Coursera(full stack).742f8ae0541ab50c46af.jpg",
@@ -20,11 +20,11 @@
     "static/media/portfolio_5.png": "/my-portfolio/static/media/portfolio_5.bb659bcace2968eb8840.png",
     "static/media/portfolio_4.png": "/my-portfolio/static/media/portfolio_4.b2945b90755d6de42e79.png",
     "index.html": "/my-portfolio/index.html",
-    "main.91da33ba.css.map": "/my-portfolio/static/css/main.91da33ba.css.map",
+    "main.09e70791.css.map": "/my-portfolio/static/css/main.09e70791.css.map",
     "main.e82c1e09.js.map": "/my-portfolio/static/js/main.e82c1e09.js.map"
   },
   "entrypoints": [
-    "static/css/main.91da33ba.css",
+    "static/css/main.09e70791.css",
     "static/js/main.e82c1e09.js"
   ]
 }
