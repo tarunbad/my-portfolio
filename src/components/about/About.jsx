@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import CLG from '../../assets/amrita.jpg'
-import ME from '../../assets/me-about1.jpg'
+// import ME from '../../assets/me-about1.jpg'
 import UNDERGRAD from '../../assets/undergrad.jpg'
 import {FaAward} from  'react-icons/fa'
 import { GiSilverBullet } from "react-icons/gi";
